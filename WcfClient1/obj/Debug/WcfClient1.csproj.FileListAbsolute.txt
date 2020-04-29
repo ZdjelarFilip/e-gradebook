@@ -1,0 +1,19 @@
+C:\Users\Rene\Desktop\WcfService1\WcfClient1\bin\Debug\WcfClient1.exe.config
+C:\Users\Rene\Desktop\WcfService1\WcfClient1\bin\Debug\WcfClient1.exe
+C:\Users\Rene\Desktop\WcfService1\WcfClient1\bin\Debug\WcfClient1.pdb
+C:\Users\Rene\Desktop\WcfService1\WcfClient1\obj\Debug\WcfClient1.exe
+C:\Users\Rene\Desktop\WcfService1\WcfClient1\obj\Debug\WcfClient1.pdb
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfClient1\bin\Debug\WcfClient1.exe.config
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfClient1\bin\Debug\WcfClient1.exe
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfClient1\bin\Debug\WcfClient1.pdb
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfClient1\obj\Debug\WcfClient1.csprojAssemblyReference.cache
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfClient1\obj\Debug\WcfClient1.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfClient1\obj\Debug\WcfClient1.exe
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfClient1\obj\Debug\WcfClient1.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfClient1\bin\Debug\WcfClient1.exe.config
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfClient1\bin\Debug\WcfClient1.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfClient1\bin\Debug\WcfClient1.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfClient1\obj\Debug\WcfClient1.csprojAssemblyReference.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfClient1\obj\Debug\WcfClient1.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfClient1\obj\Debug\WcfClient1.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfClient1\obj\Debug\WcfClient1.pdb

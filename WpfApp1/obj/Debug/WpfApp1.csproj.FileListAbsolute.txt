@@ -1,0 +1,67 @@
+C:\Users\rene\Desktop\WcfService1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\rene\Desktop\WcfService1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\rene\Desktop\WcfService1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\Login.baml
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\VnosStudentaWindow.g.cs
+C:\Users\rene\Desktop\WcfService1\WpfApp1\obj\Debug\VnosStudentaWindow.baml
+C:\Users\Rene\Desktop\WcfService1\WpfApp1\obj\Debug\PredmetStudentWindow.g.cs
+C:\Users\Rene\Desktop\WcfService1\WpfApp1\obj\Debug\PredmetWindow.g.cs
+C:\Users\Rene\Desktop\WcfService1\WpfApp1\obj\Debug\PredmetStudentWindow.baml
+C:\Users\Rene\Desktop\WcfService1\WpfApp1\obj\Debug\PredmetWindow.baml
+C:\Users\Rene\Desktop\WcfService1\WpfApp1\obj\Debug\GlavniWindow.g.cs
+C:\Users\Rene\Desktop\WcfService1\WpfApp1\obj\Debug\GlavniWindow.baml
+C:\Users\Rene\Desktop\WcfService1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\PredmetStudentWindow.g.cs
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\PredmetWindow.g.cs
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\GlavniWindow.g.cs
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\VnosStudentaWindow.g.cs
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\Login.baml
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\PredmetStudentWindow.baml
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\PredmetWindow.baml
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\GlavniWindow.baml
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\VnosStudentaWindow.baml
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Rene\Downloads\WcfService1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\PredmetStudentWindow.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\PredmetWindow.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\GlavniWindow.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\VnosStudentaWindow.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\Login.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\PredmetStudentWindow.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\PredmetWindow.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\GlavniWindow.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\VnosStudentaWindow.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WpfApp1\obj\Debug\WpfApp1.pdb

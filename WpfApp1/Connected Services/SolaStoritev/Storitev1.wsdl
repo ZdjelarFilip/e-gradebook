@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Storitev1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:1840/Storitev1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:1840/Storitev1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:1840/Storitev1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfService1" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="Istoritev_login_InputMessage">
+    <wsdl:part name="parameters" element="tns:login" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:loginResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniVseStudente_InputMessage">
+    <wsdl:part name="parameters" element="tns:vrniVseStudente" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniVseStudente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:vrniVseStudenteResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniVsePredmete_InputMessage">
+    <wsdl:part name="parameters" element="tns:vrniVsePredmete" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniVsePredmete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:vrniVsePredmeteResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniStudenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:vrniStudenta" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniStudenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:vrniStudentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniPredmet_InputMessage">
+    <wsdl:part name="parameters" element="tns:vrniPredmet" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniPredmet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:vrniPredmetResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniPredmetPoId_InputMessage">
+    <wsdl:part name="parameters" element="tns:vrniPredmetPoId" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniPredmetPoId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:vrniPredmetPoIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_predmetKiImaNajvecStudentov_InputMessage">
+    <wsdl:part name="parameters" element="tns:predmetKiImaNajvecStudentov" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_predmetKiImaNajvecStudentov_OutputMessage">
+    <wsdl:part name="parameters" element="tns:predmetKiImaNajvecStudentovResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_najstarejsiStudent_InputMessage">
+    <wsdl:part name="parameters" element="tns:najstarejsiStudent" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_najstarejsiStudent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:najstarejsiStudentResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_povprecnaOcenaStudenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:povprecnaOcenaStudenta" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_povprecnaOcenaStudenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:povprecnaOcenaStudentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_dodajPredmet_InputMessage">
+    <wsdl:part name="parameters" element="tns:dodajPredmet" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_dodajPredmet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:dodajPredmetResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_dodajStudenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:dodajStudenta" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_dodajStudenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:dodajStudentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_izbrisiPredmet_InputMessage">
+    <wsdl:part name="parameters" element="tns:izbrisiPredmet" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_izbrisiPredmet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:izbrisiPredmetResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_izbrisiStudenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:izbrisiStudenta" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_izbrisiStudenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:izbrisiStudentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_spremeniPredmet_InputMessage">
+    <wsdl:part name="parameters" element="tns:spremeniPredmet" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_spremeniPredmet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:spremeniPredmetResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_spremeniStudenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:spremeniStudenta" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_spremeniStudenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:spremeniStudentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_dodajStudentuPredmet_InputMessage">
+    <wsdl:part name="parameters" element="tns:dodajStudentuPredmet" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_dodajStudentuPredmet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:dodajStudentuPredmetResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_odstraniStudentaIzPredmeta_InputMessage">
+    <wsdl:part name="parameters" element="tns:odstraniStudentaIzPredmeta" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_odstraniStudentaIzPredmeta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:odstraniStudentaIzPredmetaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_spremeniOcenoStudenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:spremeniOcenoStudenta" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_spremeniOcenoStudenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:spremeniOcenoStudentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniVseStudentImaPredmete_InputMessage">
+    <wsdl:part name="parameters" element="tns:vrniVseStudentImaPredmete" />
+  </wsdl:message>
+  <wsdl:message name="Istoritev_vrniVseStudentImaPredmete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:vrniVseStudentImaPredmeteResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Istoritev">
+    <wsdl:operation name="login">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/login" message="tns:Istoritev_login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/loginResponse" message="tns:Istoritev_login_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniVseStudente">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/vrniVseStudente" message="tns:Istoritev_vrniVseStudente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/vrniVseStudenteResponse" message="tns:Istoritev_vrniVseStudente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniVsePredmete">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/vrniVsePredmete" message="tns:Istoritev_vrniVsePredmete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/vrniVsePredmeteResponse" message="tns:Istoritev_vrniVsePredmete_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniStudenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/vrniStudenta" message="tns:Istoritev_vrniStudenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/vrniStudentaResponse" message="tns:Istoritev_vrniStudenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniPredmet">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/vrniPredmet" message="tns:Istoritev_vrniPredmet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/vrniPredmetResponse" message="tns:Istoritev_vrniPredmet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniPredmetPoId">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/vrniPredmetPoId" message="tns:Istoritev_vrniPredmetPoId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/vrniPredmetPoIdResponse" message="tns:Istoritev_vrniPredmetPoId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="predmetKiImaNajvecStudentov">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/predmetKiImaNajvecStudentov" message="tns:Istoritev_predmetKiImaNajvecStudentov_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/predmetKiImaNajvecStudentovResponse" message="tns:Istoritev_predmetKiImaNajvecStudentov_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="najstarejsiStudent">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/najstarejsiStudent" message="tns:Istoritev_najstarejsiStudent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/najstarejsiStudentResponse" message="tns:Istoritev_najstarejsiStudent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="povprecnaOcenaStudenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/povprecnaOcenaStudenta" message="tns:Istoritev_povprecnaOcenaStudenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/povprecnaOcenaStudentaResponse" message="tns:Istoritev_povprecnaOcenaStudenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="dodajPredmet">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/dodajPredmet" message="tns:Istoritev_dodajPredmet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/dodajPredmetResponse" message="tns:Istoritev_dodajPredmet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="dodajStudenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/dodajStudenta" message="tns:Istoritev_dodajStudenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/dodajStudentaResponse" message="tns:Istoritev_dodajStudenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="izbrisiPredmet">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/izbrisiPredmet" message="tns:Istoritev_izbrisiPredmet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/izbrisiPredmetResponse" message="tns:Istoritev_izbrisiPredmet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="izbrisiStudenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/izbrisiStudenta" message="tns:Istoritev_izbrisiStudenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/izbrisiStudentaResponse" message="tns:Istoritev_izbrisiStudenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="spremeniPredmet">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/spremeniPredmet" message="tns:Istoritev_spremeniPredmet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/spremeniPredmetResponse" message="tns:Istoritev_spremeniPredmet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="spremeniStudenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/spremeniStudenta" message="tns:Istoritev_spremeniStudenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/spremeniStudentaResponse" message="tns:Istoritev_spremeniStudenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="dodajStudentuPredmet">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/dodajStudentuPredmet" message="tns:Istoritev_dodajStudentuPredmet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/dodajStudentuPredmetResponse" message="tns:Istoritev_dodajStudentuPredmet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="odstraniStudentaIzPredmeta">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/odstraniStudentaIzPredmeta" message="tns:Istoritev_odstraniStudentaIzPredmeta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/odstraniStudentaIzPredmetaResponse" message="tns:Istoritev_odstraniStudentaIzPredmeta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="spremeniOcenoStudenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/spremeniOcenoStudenta" message="tns:Istoritev_spremeniOcenoStudenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/spremeniOcenoStudentaResponse" message="tns:Istoritev_spremeniOcenoStudenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniVseStudentImaPredmete">
+      <wsdl:input wsaw:Action="http://tempuri.org/Istoritev/vrniVseStudentImaPredmete" message="tns:Istoritev_vrniVseStudentImaPredmete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/Istoritev/vrniVseStudentImaPredmeteResponse" message="tns:Istoritev_vrniVseStudentImaPredmete_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_Istoritev" type="tns:Istoritev">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="login">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniVseStudente">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/vrniVseStudente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniVsePredmete">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/vrniVsePredmete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniStudenta">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/vrniStudenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniPredmet">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/vrniPredmet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniPredmetPoId">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/vrniPredmetPoId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="predmetKiImaNajvecStudentov">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/predmetKiImaNajvecStudentov" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="najstarejsiStudent">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/najstarejsiStudent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="povprecnaOcenaStudenta">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/povprecnaOcenaStudenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dodajPredmet">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/dodajPredmet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dodajStudenta">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/dodajStudenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="izbrisiPredmet">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/izbrisiPredmet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="izbrisiStudenta">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/izbrisiStudenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="spremeniPredmet">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/spremeniPredmet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="spremeniStudenta">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/spremeniStudenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dodajStudentuPredmet">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/dodajStudentuPredmet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="odstraniStudentaIzPredmeta">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/odstraniStudentaIzPredmeta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="spremeniOcenoStudenta">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/spremeniOcenoStudenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniVseStudentImaPredmete">
+      <soap:operation soapAction="http://tempuri.org/Istoritev/vrniVseStudentImaPredmete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Storitev1">
+    <wsdl:port name="BasicHttpBinding_Istoritev" binding="tns:BasicHttpBinding_Istoritev">
+      <soap:address location="http://localhost:1840/Storitev1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

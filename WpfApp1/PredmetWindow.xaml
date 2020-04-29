@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp1.PredmetWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Predmet" Height="300" Width="200">
+    <StackPanel Margin="20">
+        <Label FontSize="16" HorizontalAlignment="Center" Content="Dodaj predmet"/>
+        <Separator/>
+        <WrapPanel>
+            <Label Content="Kratica: "/>
+            <TextBox Name="KraticaTextBox" Width="150"></TextBox>
+            <Label Content="Naziv: "/>
+            <TextBox Name="NazivTextBox" Width="150"></TextBox>
+            <Label Content="ECTS: "/>
+            <TextBox Name="EctsTextBox" Width="150"></TextBox>
+        </WrapPanel>
+
+        <Button Name="Tipka" Margin="0,10,0,0" BorderThickness="0" Foreground="White" Background="Green" FontSize="14" Content="Dodaj"/>
+    </StackPanel>
+</Window>

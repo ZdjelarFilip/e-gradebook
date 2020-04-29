@@ -1,0 +1,69 @@
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\ApplicationInsights.config
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rene\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Rene\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Rene\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\EntityFramework.dll
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\EntityFramework.xml
+C:\Users\Rene\Desktop\WcfService1\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\ApplicationInsights.config
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\EntityFramework.dll
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\EntityFramework.xml
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\obj\Debug\WcfService1.Migrations.migration1.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.GenerateResource.cache
+C:\Users\Rene\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.Migrations.mig29.resources
+C:\Users\Rene\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.GenerateResource.cache
+C:\Users\Rene\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\Rene\Desktop\WcfService1\WcfService1\obj\Debug\WcfService1.Migrations.mig15.resources
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\ApplicationInsights.config
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\EntityFramework.dll
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\EntityFramework.xml
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Rene\Downloads\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rene\Downloads\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Rene\Downloads\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Rene\Downloads\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\ApplicationInsights.config
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\EntityFramework.dll
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\EntityFramework.xml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

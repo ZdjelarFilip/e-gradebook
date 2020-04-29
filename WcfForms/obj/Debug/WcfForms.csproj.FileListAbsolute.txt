@@ -1,0 +1,44 @@
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\bin\Debug\WcfForms.exe.config
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\bin\Debug\WcfForms.exe
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\bin\Debug\WcfForms.pdb
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.csprojAssemblyReference.cache
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.Form1.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.Login.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.Meni.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.Predmet.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.Properties.Resources.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.Student.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.StudentiPredmeti.resources
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.csproj.GenerateResource.cache
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.exe
+C:\Users\Rene\Desktop\mappica\WcfService1\WcfForms\obj\Debug\WcfForms.pdb
+C:\Users\Rene\Desktop\WcfService1\WcfForms\bin\Debug\WcfForms.exe.config
+C:\Users\Rene\Desktop\WcfService1\WcfForms\bin\Debug\WcfForms.exe
+C:\Users\Rene\Desktop\WcfService1\WcfForms\bin\Debug\WcfForms.pdb
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.csprojAssemblyReference.cache
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.Form1.resources
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.Login.resources
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.Meni.resources
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.Predmet.resources
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.Properties.Resources.resources
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.Student.resources
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.StudentiPredmeti.resources
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.csproj.GenerateResource.cache
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.exe
+C:\Users\Rene\Desktop\WcfService1\WcfForms\obj\Debug\WcfForms.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\bin\Debug\WcfForms.exe.config
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\bin\Debug\WcfForms.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\bin\Debug\WcfForms.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.csprojAssemblyReference.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.Form1.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.Login.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.Meni.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.Predmet.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.Properties.Resources.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.Student.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.StudentiPredmeti.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.csproj.GenerateResource.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\6\Naloga06_AIS_Filip_Zdjelar\WcfService1\WcfForms\obj\Debug\WcfForms.pdb
